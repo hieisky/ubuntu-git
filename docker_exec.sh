@@ -1,0 +1,1 @@
+docker exec -d ubuntu_git /usr/sbin/sshd -d
